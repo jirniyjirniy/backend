@@ -18,7 +18,7 @@ COUNTRY_DATA = {
 
 STATUS = Choices(
     ('PENDING', 'Pending'),
-    ('PAYEMENT_ACCEPTED', 'Payment accepted'),
+    ('PAYMENT_ACCEPTED', 'Payment accepted'),
     ('PROCESSING', 'Processing'),
     ('CONFIRMED', 'Confirmed'),
     ('SHIPPED', 'Shipped'),
